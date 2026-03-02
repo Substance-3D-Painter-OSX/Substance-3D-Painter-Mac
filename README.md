@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.adobe.com/products/substance3d/media_1440x900/substance-3d-painter-marquee-image-desktop.jpg" alt="Substance 3D Painter screenshot"/>
+  <img src="https://helpx-prod.scene7.com/is/image/HelpxProd/painter-2021?$pjpeg$&jpegSize=200&wid=1300" alt="Substance 3D Painter screenshot"/>
 </p>
 
 ---
